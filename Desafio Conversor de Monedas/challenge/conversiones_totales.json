@@ -1,0 +1,12 @@
+[
+  {"monedaOrigen":"PEN",
+    "monedaDestino":"USD",
+    "cantidadOrigen":115.0,
+    "cantidadDestino":30.6015
+  },
+  {"monedaOrigen":"USD",
+    "monedaDestino":"PEN",
+    "cantidadOrigen":30.0,
+    "cantidadDestino":112.74
+  }
+]
