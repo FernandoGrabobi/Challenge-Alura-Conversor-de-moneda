@@ -53,10 +53,6 @@ Para ejecutar el proyecto, necesitas lo siguiente:
 4. Introduce el monto a convertir.
 5. La aplicación mostrará el resultado de la conversión.
 
-## Ejemplo de Ejecución
-
-![image](https://github.com/user-attachments/assets/5470e2bb-ca63-4759-a5ab-237f131ca734)
-
 
 ## API Utilizada
 
